@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Expert</string>
+    <string name="drawerOpen">Open Drawer</string>
+    <string name="drawerClose">Close Drawer</string>
+</resources>
